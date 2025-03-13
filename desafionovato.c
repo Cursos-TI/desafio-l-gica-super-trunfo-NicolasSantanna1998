@@ -16,7 +16,7 @@ int main(){
     scanf("%f" , &area);
     printf("insira o pib:\n");
     scanf("%f" , &pib);
-    printf("insira numero de pontos turisticos");
+    printf("insira numero de pontos turisticos:\n");
     scanf("%d" , &numerosdepontosturisticos);
 
 
